@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce1cmnf3u3ocu"
+path="res://.godot/imported/Kevin MacLeod - Itty Bitty 8 Bit  NO COPYRIGHT 8-bit Music (320).mp3-b00a48a885f5a5b598e76427ca961cb7.mp3str"
+
+[deps]
+
+source_file="res://Animais/Kevin MacLeod - Itty Bitty 8 Bit  NO COPYRIGHT 8-bit Music (320).mp3"
+dest_files=["res://.godot/imported/Kevin MacLeod - Itty Bitty 8 Bit  NO COPYRIGHT 8-bit Music (320).mp3-b00a48a885f5a5b598e76427ca961cb7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

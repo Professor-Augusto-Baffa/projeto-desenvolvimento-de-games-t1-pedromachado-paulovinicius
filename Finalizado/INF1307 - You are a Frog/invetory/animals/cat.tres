@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="InvItem" load_steps=3 format=3 uid="uid://by5i25wxgvwm3"]
+
+[ext_resource type="Script" path="res://invetory/invetory_animal.gd" id="1_vvv80"]
+[ext_resource type="Texture2D" uid="uid://quf7lms2p453" path="res://Animais/teste/Idle_cat1.png" id="2_40biu"]
+
+[resource]
+script = ExtResource("1_vvv80")
+name = "cat"
+texture = ExtResource("2_40biu")
